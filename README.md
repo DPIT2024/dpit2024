@@ -19,45 +19,23 @@
 ## 💻 Workspace Spec [🔝]
 
 <h3 align="left">Connect with me via:</h3>
-<div style="text-align:center;">
-<ul type="none">
-  <li>
-<a href="https://www.linkedin.com/in/dheeraj-pyasi-6a319a247/" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/329_linkedin.jpg" alt="" height="40" width="50" /></a>
-  </li>
-</ul>
-</div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-pyasi-6a319a247/) 
+
 
 ## 💻 Codeing Profile where I have solved lot's of DSA problems[👇]
 
 <span >
   <a href="https://auth.geeksforgeeks.org/user/dheerajit2024/practice" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="" height="40" width="40" /></a>
   <a href="https://leetcode.com/topitcoder2024/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3772195-3151321.png" alt="" height="40" width="40" /></a>
-  <a href="https://www.hackerrank.com/DPIT2024" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="" height="80" width="80" /></a>
+  <a href="https://www.hackerrank.com/DPIT2024" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="" height="40" width="40" /></a>
 </span>
 
 
-## 👨‍💻 <strong> Technologies I use: </strong>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
-<span>
 
- 
-  <img align="center" src="https://www.vhv.rs/dpng/d/220-2202353_c-programming-cpp-program-language-programmer-c-official.png" alt="" height="60" width="60" />
-  <img align="center" src="https://blog.consdata.tech/assets/img/posts/2019-03-22-java-darmowa-czy-nie/java-darmowa.png" alt="" height="60" width="60" />
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="" height="60" width="60" />
-  <img align="center" src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.svg" alt="" height="60" width="60" />
-  <img align="center" src="https://img-c.udemycdn.com/course/480x270/3997878_928b.jpg" alt="" height="60" width="60" />
-  <img align="center" src="https://image.spreadshirtmedia.com/image-server/v1/mp/products/T1459A839PA3861PT28D1007202637W10000H3483/views/1,width=800,height=800,appearanceId=839,backgroundColor=F2F2F2/django-logo-sticker.jpg" alt="" height="60" width="60" />
-  <img align="center" src="https://allvectorlogo.com/img/2016/04/js-logo.png" alt="" height="60" width="60" />
-  <img align="center" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" alt="" height="60" width="60" />
-  <img align="center" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/image4.jpg" alt="" height="60" width="60" />
-  <img align="center" src="https://kobaltsolutions.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-08-at-4.06.03-PM.png" alt="" height="60" width="60" />
-  <img align="center" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="" height="60" width="60" />
-  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmzmic-yLa0vf3GBbMwvJzmAKBFxea9wsNaswiGci7&s" alt="" height="60" width="60" />
-  <img align="center" src="https://vietadsgroup.vn/Uploads/files/git-va-github-la-gi.png" alt="" height="60" width="60" />
-  
-</span>
-<br>
-<br>
 <br>
 <h3>## 🤔 <strong> Facts about programming language </strong></h3>
 <ol>
