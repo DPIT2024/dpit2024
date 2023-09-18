@@ -39,7 +39,6 @@
 <br>
 
 
-<details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
     <ul>
@@ -59,7 +58,7 @@
     <code><img width="3%" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></code>Youtube	
    <code><img  width="3%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></code>Linkedin
     </ul>
-</details>
+
 
 
 
